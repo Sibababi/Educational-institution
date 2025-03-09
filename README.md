@@ -117,8 +117,7 @@ Feel free to modify the code according to your specific project requirements.
 
 
 # وصف المشروع
-هذا المشروع هو Api
- لعيادة طبيب اسنان لمساعدته في جدولة مواعيد المرضى
+هذا المشروع لإدارة مؤسسة تعليمية صغيرة
 
 
 # من اجل تشغيل المشروع
