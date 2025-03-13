@@ -6,7 +6,7 @@ An educational institution for organizing the schedules of students and teachers
 
 ## Install
 
-Some basic Git commands are:
+Some basic Git commands are
 
 ```
 $ git clone https://github.com/Sibababi/Educational-institution
