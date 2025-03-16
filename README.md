@@ -12,7 +12,7 @@ Some basic Git commands are:
 $ git clone https://github.com/Sibababi/Educational-institution
 $ cd Educational-institution
 $ npm install
-```c
+```
 
 ## Start development
 
